@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on learning new skills regards Cyber Security<br>- 🌱 I had completed my Master in Cyber Security and Networks from University OF New Haven<br>- 👯 I’m looking to collaborate on Cyber Security<br>- 🤔 I’m looking for help with Web-Development and Web-Security<br>- 💬 Ask me about Cyber Security topics<br>- 📫 How to reach me: Github @Harsh0071999, Email: harshgandhi0709@gmail.com<br>
+- 🔭 Currently working on learning new skills regards Cyber Security<br>- 🌱 Completed my Master in Cyber Security and Networks from University OF New Haven<br>- 👯 Looking to collaborate on Cyber Security<br>- 🤔 Looking for help with Web-Development and Web-Security<br>- 💬 Ask me about Cyber Security topics<br>- 📫 How to reach me: Github @Harsh0071999, Email: harshgandhi0709@gmail.com<br>
 
 
 ## 🌐 Socials:
