@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Angular and learning new skills regards Cyber Security<br>- 🌱 I had completed my B.tech in Cyber Security from Ganpat University ICT Ahmedabad<br>- 👯 I’m looking to collaborate on Cyber Security<br>- 🤔 I’m looking for help with Web-Development and Web-Security<br>- 💬 Ask me about Cyber Security topics<br>- 📫 How to reach me: Github @Harsh0071999, Email: hmghacker@gmail.com<br>
+- 🔭 I’m currently working on learning new skills regards Cyber Security<br>- 🌱 I had completed my Master in Cyber Security and Networks from University OF New Haven<br>- 👯 I’m looking to collaborate on Cyber Security<br>- 🤔 I’m looking for help with Web-Development and Web-Security<br>- 💬 Ask me about Cyber Security topics<br>- 📫 How to reach me: Github @Harsh0071999, Email: harshgandhi0709@gmail.com<br>
 
 
 ## 🌐 Socials:
